@@ -48,10 +48,10 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |   3 | Raft               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/raft.pdf][paper]]                 |
 #+TBLFM: $1=@-1$1+1;N
 ** More Resources
-| Name      | Summary                    |
-|-----------+----------------------------|
-| Reference | [[https://github.com/papers-we-love/papers-we-love][Github: papers-we-love]]     |
-| Reference | [[https://blog.acolyer.org/][Website: the morning paper]] |
+| Name      | Summary                                                             |
+|-----------+---------------------------------------------------------------------|
+| Reference | [[https://github.com/papers-we-love/papers-we-love][Github: papers-we-love]], [[https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4][CheatSheet: System Design For Job Interview]] |
+| Reference | [[https://blog.acolyer.org/][Website: the morning paper]]                                          |
 
 License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
 
