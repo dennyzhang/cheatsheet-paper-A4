@@ -44,7 +44,8 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 | Num | Name               | Summary |
 |-----+--------------------+---------|
 |   1 | Consistent Hashing | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/consistent-hashing.pdf][paper]]   |
-|   2 | Paxos              | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/paxos-simple-Copy.pdf][paper]]   |
+|   2 | Paxos              | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/paxos-simple-Copy.pdf][paper]]    |
+|   3 | Raft               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/raft.pdf][paper]]                 |
 #+TBLFM: $1=@-1$1+1;N
 ** More Resources
 | Name      | Summary                    |
