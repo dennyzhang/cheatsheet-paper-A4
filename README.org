@@ -25,21 +25,21 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 ** Papers: Distributed System
 | Num | Name                                           | Summary                                            |
 |-----+------------------------------------------------+----------------------------------------------------|
-|   1 | Dynamo - HA K/V store                          | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/dynamo-amazon.pdf][paper: dynamo-amazon.pdf]]                           |
-|   2 | Zookeeper - Cooridnation                       | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/zookeeper.pdf][paper: zookeeper.pdf]]                               |
+|   1 | Dynamo: HA K/V store                           | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/dynamo-amazon.pdf][paper: dynamo-amazon.pdf]]                           |
+|   2 | Zookeeper: Cooridnation                        | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/zookeeper.pdf][paper: zookeeper.pdf]]                               |
 |   3 | Google File System                             | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/the-google-file-system.pdf][paper: the-google-file-system.pdf]]                  |
-|   4 | Cassandra - Decentralized storage              | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/cassandra-facebook.pdf][paper: cassandra-facebook.pdf]]                      |
-|   5 | Kafka - distributed messageing system          | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/kafka-linkedin.pdf][paper: kafka-linkedin.pdf]]                          |
+|   4 | Cassandra: Decentralized storage               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/cassandra-facebook.pdf][paper: cassandra-facebook.pdf]]                      |
+|   5 | Kafka: distributed messageing system           | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/kafka-linkedin.pdf][paper: kafka-linkedin.pdf]]                          |
 |   6 | MapReduce                                      | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/mapreduce.pdf][paper: mapreduce.pdf]]                               |
-|   7 | Chubby - Lock service                          | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/chubby-osdi06.pdf][paper: chubby-osdi06.pdf]]                           |
+|   7 | Chubby: Lock service                           | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/chubby-osdi06.pdf][paper: chubby-osdi06.pdf]]                           |
 |   8 | Cache                                          | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/database-caching-strategies-using-redis.pdf][paper: database-caching-strategies-using-redis.pdf]] |
-|   9 | Bigtable - distributed storage                 | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/bigtable-google.pdf][paper: bigtable-google.pdf]]                         |
-|  10 | Spanner - Globally-distributed db              | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/spanner-google.pdf][paper: spanner-google.pdf]]                          |
+|   9 | Bigtable: distributed storage                  | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/bigtable-google.pdf][paper: bigtable-google.pdf]]                         |
+|  10 | Spanner: Globally-distributed db               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/spanner-google.pdf][paper: spanner-google.pdf]]                          |
 |  11 | Hadoop Distributed File System                 | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/hdfs.pdf][paper: hdfs.pdf]]                                    |
 |  12 | Concurrency Control                            | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/concurrency-control.pdf][paper: concurrency-control.pdf]]                     |
 |  13 | Time Series Database                           | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/Gorilla.pdf][paper: Gorilla.pdf]]                                 |
 |  14 | Transactions in a Distributed Key-Value Store  | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/deepakn.pdf][paper: deepakn.pdf]]                                 |
-|  15 | Maglev - Google load balancer                  | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/google-maglev.pdf][paper: google-maglev.pdf]]                           |
+|  15 | Maglev: Google load balancer                   | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/google-maglev.pdf][paper: google-maglev.pdf]]                           |
 |  16 | Andromeda: Google cloud network virtualization | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/google-andromeda.pdf][paper: google-andromeda.pdf]]                        |
 #+TBLFM: $1=@-1$1+1;N
 ** Papers: Algorithm & Protocols
