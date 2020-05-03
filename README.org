@@ -18,11 +18,11 @@
 
 - PDF Link: [[https://github.com/dennyzhang/cheatsheet-paper-A4/blob/master/cheatsheet-paper-A4.pdf][cheatsheet-paper-A4.pdf]], Category: [[https://cheatsheet.dennyzhang.com/category/interview/][interview]]
 - Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-paper-A4
-- Related posts: [[https://cheatsheet.dennyzhang.com/cheatsheet-leetcode-A4][CheatSheet: Leetcode For Code Interview]], [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
+- Related posts: [[https://cheatsheet.dennyzhang.com/cheatsheet-leetcode-A4][CheatSheet: Leetcode For Code Interview]], [[https://cheatsheet.dennyzhang.com/category/interview/][interview]]
 
 File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues]] or star [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com][this repo]].
 
-** Well-Known IT Papers: Distributed System
+** Papers: Distributed System
 | Num | Name                                          | Summary                                            |
 |-----+-----------------------------------------------+----------------------------------------------------|
 |   1 | Dynamo - HA K/V store                         | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/dynamo-amazon.pdf][paper: dynamo-amazon.pdf]]                           |
@@ -40,7 +40,7 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |  13 | Time Series Database                          | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/Gorilla.pdf][paper: Gorilla.pdf]]                                 |
 |  14 | Transactions in a Distributed Key-Value Store | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/deepakn.pdf][paper: deepakn.pdf]]                                 |
 #+TBLFM: $1=@-1$1+1;N
-** Well-Known IT Papers: Algorithm & Protocols
+** Papers: Algorithm & Protocols
 | Num | Name               | Summary |
 |-----+--------------------+---------|
 |   1 | Consistent Hashing | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/consistent-hashing.pdf][paper]]   |
@@ -48,10 +48,11 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |   3 | Raft               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/raft.pdf][paper]]                 |
 #+TBLFM: $1=@-1$1+1;N
 ** More Resources
-| Name      | Summary                                                             |
-|-----------+---------------------------------------------------------------------|
-| Reference | [[https://github.com/papers-we-love/papers-we-love][Github: papers-we-love]], [[https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4][CheatSheet: System Design For Job Interview]] |
-| Reference | [[https://blog.acolyer.org/][Website: the morning paper]]                                          |
+| Name      | Summary                                                      |
+|-----------+--------------------------------------------------------------|
+| Reference | [[https://github.com/papers-we-love/papers-we-love][Github: papers-we-love]], [[https://blog.acolyer.org/][Website: the morning paper]]           |
+| Reference | [[https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4][CheatSheet: System Design For Job Interview]]                  |
+| Reference | [[https://cheatsheet.dennyzhang.com/cheatsheet-leetcode-A4][CheatSheet: LeetCode Common Templates & Common Code Problems]] |
 
 License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
 
