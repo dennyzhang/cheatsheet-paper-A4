@@ -41,13 +41,16 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |  14 | Transactions in a Distributed Key-Value Store  | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/deepakn.pdf][paper: deepakn.pdf]]                                 |
 |  15 | Maglev: Google load balancer                   | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/google-maglev.pdf][paper: google-maglev.pdf]]                           |
 |  16 | Andromeda: Google cloud network virtualization | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/google-andromeda.pdf][paper: google-andromeda.pdf]]                        |
+|  17 | Haystack: Facebook photo storage               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/facebook-haystack.pdf][paper: facebook-haystack.pdf]]                       |
 #+TBLFM: $1=@-1$1+1;N
 ** Papers: Algorithm & Protocols
-| Num | Name               | Summary |
-|-----+--------------------+---------|
-|   1 | Consistent Hashing | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/consistent-hashing.pdf][paper]]   |
-|   2 | Paxos              | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/paxos-simple-Copy.pdf][paper]]    |
-|   3 | Raft               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/raft.pdf][paper]]                 |
+| Num | Name               | Summary                                             |
+|-----+--------------------+-----------------------------------------------------|
+|   1 | Consistent Hashing | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/consistent-hashing.pdf][paper: consistent-hashing.pdf]]                       |
+|   2 | Paxos              | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/paxos-simple-Copy.pdf][paper: paxos-simple-Copy.pdf]]                        |
+|   3 | Raft               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/raft.pdf][paper: raft.pdf]]                                     |
+|   4 | Hyerloglog         | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/hyerloglog.pdf][paper: hyerloglog.pdf]]                               |
+|   5 | Gossip             | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/A gossip-style failure detection service.pdf][paper: A gossip-style failure detection service.pdf]] |
 #+TBLFM: $1=@-1$1+1;N
 ** More Resources
 | Name      | Summary                                                      |
@@ -88,3 +91,10 @@ License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_lice
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 #+LINK_UP:
 #+LINK_HOME:
+* more papers                                                      :noexport:
+|   5 | Bloom filter       |                                                     |
+|   6 | Reservoir Sampling |                                                     |
+|   7 | LSM                |                                                     |
+|   9 | CRDTs              |                                                     |
+|  10 | LSM                |                                                     |
+|  11 | Quadtree           |                                                     |
