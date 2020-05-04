@@ -49,8 +49,8 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |   1 | Consistent Hashing | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/consistent-hashing.pdf][paper: consistent-hashing.pdf]]                       |
 |   2 | Paxos              | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/paxos-simple-Copy.pdf][paper: paxos-simple-Copy.pdf]]                        |
 |   3 | Raft               | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/raft.pdf][paper: raft.pdf]]                                     |
-|   4 | Hyerloglog         | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/hyerloglog.pdf][paper: hyerloglog.pdf]]                               |
-|   5 | Gossip             | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/A gossip-style failure detection service.pdf][paper: A gossip-style failure detection service.pdf]] |
+|   4 | Gossip             | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/A gossip-style failure detection service.pdf][paper: A gossip-style failure detection service.pdf]] |
+|   5 | Hyerloglog         | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/hyerloglog.pdf][paper: hyerloglog.pdf]]                               |
 #+TBLFM: $1=@-1$1+1;N
 ** More Resources
 | Name      | Summary                                                      |
