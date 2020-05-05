@@ -43,7 +43,8 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |  16 | Google Andromeda: Google cloud network virtualization | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/google-andromeda.pdf][paper: google-andromeda.pdf]] ([[https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf][Original link)]]   |
 |  17 | Google B4: Google SDN Network                         | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/google-b4.pdf][paper: google-b4.pdf]] ([[https://dl.acm.org/doi/10.1145/2534169.2486019][Original link)]]          |
 |  18 | Transactions in a Distributed Key-Value Store         | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/deepakn.pdf][paper: deepakn.pdf]] ([[https://css.csail.mit.edu/6.824/2014/projects/deepakn.pdf][Original link]])            |
-|   9 | Ceph: a distributed file system                       | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/ceph.pdf][paper: ceph.pdf]] ([[https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf][Original link]])               |
+|  19 | Ceph: a distributed file system                       | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/ceph.pdf][paper: ceph.pdf]] ([[https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf][Original link]])               |
+|  20 | Sun NFS: network filesystem                           | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/sun-nfs.pdf][paper: sun-nfs.pdf]] ([[http://www.cs.ucf.edu/~eurip/papers/sandbergnfs.pdf][Original link]])            |
 #+TBLFM: $1=@-1$1+1;N
 ** Papers: Algorithm & Protocols
 | Num | Name               | Summary                                                                                              |
