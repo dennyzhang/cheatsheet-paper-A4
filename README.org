@@ -56,6 +56,7 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |  29 | Chord: p2p lookup service                                 | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/chord.pdf][paper: chord.pdf]] ([[https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf][Original link]])                 |
 |  30 | Akamai CDN Network                                        | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/akamai.pdf][paper: akamai.pdf]] ([[https://www.cs.rutgers.edu/~rmartin/teaching/fall15/papers/arch2/cdn.pdf][Original link]])                |
 |  31 | MDCC: Multi-Data Center Consistency                       | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/mddc.pdf][paper: mddc.pdf]] ([[https://amplab.cs.berkeley.edu/wp-content/uploads/2013/03/mdcc-eurosys13.pdf][Original link]])                  |
+|  32 | Warp: Multi-key transactions for key-value stores         | [[https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper/warp.pdf][paper: warp.pdf]] ([[https://arxiv.org/pdf/1509.07815.pdf][Original link]]                   |
 #+TBLFM: $1=@-1$1+1;N
 ** Papers: Algorithm & Protocols
 | Num | Name                       | Summary                                                             |
